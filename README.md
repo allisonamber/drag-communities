@@ -9,13 +9,13 @@ A exploration into the fan communities of drag performance art in physical and d
 	region="0,-475,3212,3401"
        layout="vertical">
 
-# The Fighting Okra
+# Introduction to the Drag Fan Community
 Delta State University (DSU) in Mississippi has an unusual mascot: the “Fighting Okra.” While the school's mascot was the “Statesman,” students insisted on a mascot that they thought better represented their southern roots and the toughness of their athletes.[^Ref 1] Today, DSU has proudly made the Fighting Okra the face of its campus, with promotional materials proclaiming somewhat tongue in cheek, “Fear of the okra may not be actual fear, but it’s enough to get a crowd going.”[^Ref 2] Although the connection between okra, the South, and toughness may seem obscure,  okra has been a source and symbol of strength for many disenfranchised communities, as well as for members of the African diaspora in the Americas. The vegetable has developed a reputation as a “robust, productive, fast-growing, [and] high yielding [crop]... [one that is] seldom felled by pests and diseases. It adapts to difficult conditions and can thrive where other food plants prove unreliable.”[^Ref 3] More broadly, it has served as an example of and testament to cultural resilience, as Africans forcibly displaced by the slave trade kept growing and cooking okra and preserving, as well as innovating, their culinary traditions. Thus, the crop has evolved into a cultural phenomenon that communities around the world continue to embrace as a treasured reminder of home, heritage, and enduring spirit.
 <param ve-iframe
-	label="Delta University's Mascot: The Fighting Okra"
-	description="DSU 'Fighting Okra' Promotional Video"
+	label="A Fan's First Experience Attending Drag Con 2019"
+	description="Tiffy Goes to Drag Con 2019 by Tiffy Quake"
 	license="Public Domain"
-	src="https://www.youtube.com/embed/pS589zKAlnY?si=oL9nLK7A29GhFO74">
+	src="https://youtu.be/g0Ayq4cHFGI?si=YevlDMJtLPLM7J5K">
  
 # Origins
 Okra, from the Nigerian [Igbo](https://en.wikipedia.org/wiki/Igbo_language) okuru (its Latin name is Abelmoschus esculentus), is a [cultigen](https://en.wikipedia.org/wiki/Cultigen) or plant species that humans have selected for cultivation with no clearly discernible wild ancestor.[^Ref 4] It hails from the Mallow family, sharing ties with plants such as cotton and members of the hibiscus genus.[^Ref 5] In terms of floral anatomy, okra closely resembles various hibiscus species and in early botanical texts was often mistaken as a type of hibiscus. The plant rises from the ground and branches into green leaves and pale yellow and red flowers, complemented by long green or red fruit pods containing the seeds. Its original zone of cultivation is in the tropics and subtropics of the eastern hemisphere, extending from Southeast Asia to West Africa. In terms of its precise origins, scientists have theorized it to be the descendant of an older species originating in either East Africa or South and Southeast Asia. Author, seed saver, and permaculturist Chris Smith suggests that the Asian origin story is the more likely, as in prehistory, the wild relative of okra, to which its East African origin is often attributed, also grew in adjacent regions of Asia.[^Ref 6] That said, African communities extending from the Horn of Africa to the shores of West Africa have cultivated the plant for thousands of years. From Africa, we can trace okra’s journey from prehistoric cultivation to an international symbol of African diasporic survival and cultural continuity. 
