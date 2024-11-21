@@ -1,10 +1,10 @@
-![image](https://github.com/user-attachments/assets/bfd61915-ad4b-40ae-ad60-a4f8630aabfa)# drag-communities
+# drag-communities
 A exploration into the fan communities of drag performance art in physical and digital spaces.
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config
-       title="Drag Spaces and Their Communities"
-       author="Allison Caban"
+       title="Okra: An Enduring Kitchen Staple"
+       author="Allison Caban and Malek Charchour"
        banner="https://upload.wikimedia.org/wikipedia/commons/7/72/Olivia_Chow_with_Pride_Colours.jpg"
        layout="vertical">
 
@@ -20,10 +20,11 @@ Delta State University (DSU) in Mississippi has an unusual mascot: the “Fighti
 Okra, from the Nigerian [Igbo](https://en.wikipedia.org/wiki/Igbo_language) okuru (its Latin name is Abelmoschus esculentus), is a [cultigen](https://en.wikipedia.org/wiki/Cultigen) or plant species that humans have selected for cultivation with no clearly discernible wild ancestor.[^Ref 4] It hails from the Mallow family, sharing ties with plants such as cotton and members of the hibiscus genus.[^Ref 5] In terms of floral anatomy, okra closely resembles various hibiscus species and in early botanical texts was often mistaken as a type of hibiscus. The plant rises from the ground and branches into green leaves and pale yellow and red flowers, complemented by long green or red fruit pods containing the seeds. Its original zone of cultivation is in the tropics and subtropics of the eastern hemisphere, extending from Southeast Asia to West Africa. In terms of its precise origins, scientists have theorized it to be the descendant of an older species originating in either East Africa or South and Southeast Asia. Author, seed saver, and permaculturist Chris Smith suggests that the Asian origin story is the more likely, as in prehistory, the wild relative of okra, to which its East African origin is often attributed, also grew in adjacent regions of Asia.[^Ref 6] That said, African communities extending from the Horn of Africa to the shores of West Africa have cultivated the plant for thousands of years. From Africa, we can trace okra’s journey from prehistoric cultivation to an international symbol of African diasporic survival and cultural continuity. 
 <param ve-iframe
 	title="Abelmoschus Esculentus"
-	src="https://upload.wikimedia.org/wikipedia/commons/7/72/Olivia_Chow_with_Pride_Colours.jpg"
+	src="https://www.archive.org/download/profdrthomsflora03thom/page/n643_w410"
 	label="Flora von Deutschland"
 	description="Botanical illustration from Thomé's Natural History"
-	license="CC BY-SA 4.0">
+	license="CC BY-SA 4.0"
+	region="-172,94,862,701">
 
 # Crossing Borders
 Okra's historical basis in Africa begins with its first appearance in the written record in [Ibn al-Baytar](https://en.wikipedia.org/wiki/Ibn_al-Baytar)’s 1216 pharmaceutical text _Kitab al-Jamiʿ li-Mufradat al-Adwiya wa-l-Aghdhiya_. Al-Baytar, a physician, botanist, and pharmacist, compiled a catalog of 1,400 plants that included information about their characteristics and their traditional uses. For okra, called bamiya, Al-Baytar referenced the words of his teacher, Abu al-Abbas al-Nabati, who encountered the vegetable on a visit to Egypt in 1216 CE.[^Ref 7] Al-Nabati compared the plant and its “black” and “sweet” fruit to hibiscus trees in [Al-Andalus](https://en.wikipedia.org/wiki/Al-Andalus). This comparison was particularly inspired by the red center that both flowers share, as well as the shape and form of the flowers themselves. The okra description ends with a culinary emphasis, describing how “the people of Egypt'' ate and prepared bamiya with meat and “hot spices.”[^Ref 8] Today, in a comparable dish also called [bamiya](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Du_bamia_avec_du_riz_en_f%C3%A9vrier_2022.jpg/800px-Du_bamia_avec_du_riz_en_f%C3%A9vrier_2022.jpg?20220301125847) in Egypt and Western Asia, or ganaouiya in Northwest Africa,  cooks continue to pair the vegetable with protein in a slow-cooked and spiced stew. 
@@ -33,9 +34,8 @@ Okra’s journey from Africa to the Americas began in the decades following Colu
 <param ve-image
 	description="A 'faithful photographic reproduction' of a Scene on the Middle Passage"
 	label="Scene from the Middle Passage from *Navio negreiro* by Johann Moritz Rugendas"
-	region="-29,-67,858,615"
 	license="PDM 1.0"
-	url="https://upload.wikimedia.org/wikipedia/commons/7/71/Navio_negreiro_-_Rugendas_1830.jpg">
+	url="https://upload.wikimedia.org/wikipedia/commons/7/72/Olivia_Chow_with_Pride_Colours.jpg">
 
 Okra thrived with other African crops in many of the gardens of the enslaved across the Americas.[^Ref 15] While the practice of cultivating gardens was not allowed in all plantations across the Americas, where plots were allotted to enslaved communities, the gardens became sites of physical and spiritual survival. As culinary historian Michael W. Twitty notes, the gardens of the enslaved often became sites of religious significance, featuring such mystical “power objects” as shells, other charms, and conjure bags, resulting in the fusion of African, Indigenous, and European traditions.[^Ref 16] There was also the physical necessity for food that the gardens sustained. Since many plantation owners provided their enslaved workers with little food, the allotted plots became community gardens whose cultivation ensured physical survival in places where “food supplies were chronically scarce.”[^Ref 17] Okra was one of the main crops cultivated, a fact that was referenced by a number of early modern botanists and travelers to the Americas.[^Ref 18]
 
