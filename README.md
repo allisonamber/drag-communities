@@ -5,7 +5,7 @@ A exploration into the fan communities of drag performance art in physical and d
 <param ve-config
        title="Okra: An Enduring Kitchen Staple"
        author="Allison Caban and Malek Charchour"
-       banner="https://commons.wikimedia.org/wiki/File:Drag_Queen_in_Toronto_by_Pouria_Afkhami_pixoos_09.jpg#/media/File:Drag_Queen_in_Toronto_by_Pouria_Afkhami_pixoos_09.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/7/72/Olivia_Chow_with_Pride_Colours.jpg"
        layout="vertical">
 
 # The Fighting Okra
