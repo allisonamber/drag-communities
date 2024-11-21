@@ -3,9 +3,10 @@ A exploration into the fan communities of drag performance art in physical and d
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config
-       title="Okra: An Enduring Kitchen Staple"
-       author="Allison Caban and Malek Charchour"
+       title="Queer Spaces and Drag Communities"
+       author="Allison Caban"
        banner="https://upload.wikimedia.org/wikipedia/commons/7/72/Olivia_Chow_with_Pride_Colours.jpg"
+	region="0,-475,3212,3401"
        layout="vertical">
 
 # The Fighting Okra
