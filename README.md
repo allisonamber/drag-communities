@@ -5,8 +5,8 @@ src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></
 <param ve-config
        title="Queer Spaces and Drag Communities"
        author="Allison Caban"
-       banner="[image](https://github.com/user-attachments/assets/456ff819-f77f-4132-adf9-852ec7c10be4)"
-       layout="vertical">
+banner="file:///Users/allisoncaban/Downloads/Green%20Blue%20Bold%20Playful%20Fashion%20Product%20Announcement%20Landscape%20Banner%20(1).jpg"
+	layout="vertical">
 
 # Introduction
 ## Description: membership, platform, language, origin, exclusion.
@@ -43,7 +43,7 @@ Cosplay and Costumes.
 	url="https://i.pinimg.com/736x/8a/37/69/8a37692c2be5452eb4d302474e2974a7.jpg">
 
 # Artifact Four
-Drag Con. 
+Drag Con and Wigstock. 
 <param ve-image
 	description="A 'faithful photographic reproduction' of a Scene on the Middle Passage"
 	label="Scene from the Middle Passage from *Navio negreiro* by Johann Moritz Rugendas"
