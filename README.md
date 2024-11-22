@@ -5,7 +5,8 @@ src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></
 <param ve-config
        title="Queer Spaces and Drag Communities"
        author="Allison Caban"
-banner="blob:https://www.canva.com/1d91f4a2-983c-45f8-bcd5-0b2869de5602">
+banner="https://commons.wikimedia.org/wiki/File:Green_Blue_Bold_Playful_Fashion_Product_Announcement_Landscape_Banner_(1).jpg"
+	layout="vertical">
 
 # Introduction
 ## Description: membership, platform, language, origin, exclusion.
