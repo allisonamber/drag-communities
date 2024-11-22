@@ -31,6 +31,7 @@ Fanart.
 	description="A 'faithful photographic reproduction' of a Scene on the Middle Passage"
 	label="Scene from the Middle Passage from *Navio negreiro* by Johann Moritz Rugendas"
 	license="Public Domain"
+	region="-245,1,1227,447"
 	url="https://i.pinimg.com/control2/736x/0f/93/67/0f9367e5c04652db765a5b2b0c52c8df.jpg">
        
 # Artifact Three
