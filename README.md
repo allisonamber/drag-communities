@@ -3,7 +3,7 @@
 <param ve-config
        title="Queer Spaces and Drag Communities"
        author="Allison Caban"
-banner="https://commons.wikimedia.org/wiki/File:Green_Blue_Bold_Playful_Fashion_Product_Announcement_Landscape_Banner_(1).jpg"
+banner="https://upload.wikimedia.org/wikipedia/commons/5/57/Green_Blue_Bold_Playful_Fashion_Product_Announcement_Landscape_Banner_%281%29.jpg"
 	layout="vertical">
 
 # Introduction
