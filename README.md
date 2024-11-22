@@ -1,6 +1,5 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
-<span style="font-family: 'Lucida Console';">foo</span>
 <param ve-config
        title="Queer Spaces and Drag Communities"
        author="Allison Caban"
@@ -16,7 +15,7 @@ banner="https://upload.wikimedia.org/wikipedia/commons/5/57/Green_Blue_Bold_Play
 	url="https://i.pinimg.com/control2/736x/95/68/02/95680260db6673b75609a3554ae8eb4d.jpg">
 Scholarship.
 <param ve-iframe
-src="https://archive.org/details/1_20210320_20210320_0857/%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%20%D9%84%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A3%D8%AF%D9%88%D9%8A%D8%A9%20%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%AF%D9%8A%D8%A9%20%D8%A5%D8%A8%D9%86%20%D8%A7%D9%84%D8%A8%D9%8A%D8%B7%D8%A7%D8%B1%D8%AC%201/page/n111/mode/1up?view=theater&ui=embed&wrapper=false">
+src="https://www.jstor.org/stable/j.ctvndv9md.14">
 
 # Artifact One
 Fan edits & memes.
