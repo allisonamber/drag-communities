@@ -1,4 +1,3 @@
-A exploration into the fan communities of drag performance art in physical and digital spaces.
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config
