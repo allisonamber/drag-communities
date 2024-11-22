@@ -14,7 +14,8 @@ banner="https://commons.wikimedia.org/wiki/File:Green_Blue_Bold_Playful_Fashion_
 	license="Public Domain"
 	url="https://i.pinimg.com/control2/736x/95/68/02/95680260db6673b75609a3554ae8eb4d.jpg">
 Scholarship.
-<param ve-iframe	src="https://archive.org/details/1_20210320_20210320_0857/%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%20%D9%84%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A3%D8%AF%D9%88%D9%8A%D8%A9%20%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%AF%D9%8A%D8%A9%20%D8%A5%D8%A8%D9%86%20%D8%A7%D9%84%D8%A8%D9%8A%D8%B7%D8%A7%D8%B1%D8%AC%201/page/n111/mode/1up?view=theater&ui=embed&wrapper=false">
+<param ve-iframe
+src="https://archive.org/details/1_20210320_20210320_0857/%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%20%D9%84%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A3%D8%AF%D9%88%D9%8A%D8%A9%20%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%AF%D9%8A%D8%A9%20%D8%A5%D8%A8%D9%86%20%D8%A7%D9%84%D8%A8%D9%8A%D8%B7%D8%A7%D8%B1%D8%AC%201/page/n111/mode/1up?view=theater&ui=embed&wrapper=false">
 
 # Artifact One
 Fan edits & memes.
@@ -46,7 +47,7 @@ Drag Con and Wigstock.
 	description="A 'faithful photographic reproduction' of a Scene on the Middle Passage"
 	label="Scene from the Middle Passage from *Navio negreiro* by Johann Moritz Rugendas"
 	license="Public Domain"
-	url="">
+	url="https://i.pinimg.com/736x/2c/39/e9/2c39e9e1bab5d47ff35be47ed45e49ba.jpg">
 
 # Interview One
 Questions overview.
