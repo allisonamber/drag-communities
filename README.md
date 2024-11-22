@@ -1,5 +1,6 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
+<span style="font-family: 'Lucida Console';">foo</span>
 <param ve-config
        title="Queer Spaces and Drag Communities"
        author="Allison Caban"
