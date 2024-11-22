@@ -1,6 +1,5 @@
 A exploration into the fan communities of drag performance art in physical and digital spaces.
-<a href="https://www.juncture-digital.org"><img
-src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
+<a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config
        title="Queer Spaces and Drag Communities"
@@ -52,16 +51,12 @@ Drag Con and Wigstock.
 
 # Interview One
 Questions overview.
-
 Participants.
-
 Responses.
 
 # Interview Two
 Questions overview.
-
 Participants.
-
 Responses.
 
 # Conclusion
