@@ -10,7 +10,7 @@ A exploration into the fan communities of drag performance art in physical and d
        layout="vertical">
 
 # Introduction
-Description: membership, platform, language, origin, exclusion.
+## Description: membership, platform, language, origin, exclusion.
 <param ve-iframe
 	label="A Fan's First Experience Attending Drag Con 2019"
 	description="Tiffy Goes to Drag Con 2019 by Tiffy Quake"
